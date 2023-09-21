@@ -12,13 +12,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasvelazquezdev&title=Stars,Followers,Repositories,PullRequest" alt="eliasvelazquezdev"/></a> </p>
 
 
-- 🔭 I’m currently working on a social media web app with Django
+- 🔭 I’m currently working on a collaborative team project with Django and Django REST Framework (a LinkedIn style web app)
 
-- 👨‍💻 All of my projects are available at [my web](https://www.eliasvelazquez.me/)
+- 👨‍💻 All of my projects are available at [my web](https://www.evelazquez.dev/)
 
 - 📫 How to reach me **evelazquez2604@gmail.com**
 
-- 📄 Know more about me and my experiences [by downloading my resume](https://drive.google.com/file/d/1Ii0LnwW9yrVLl9JfbZ5hN8zNEtcutkR3/view?usp=drive_link)
+- 📄 Know more about me and my experiences [by downloading my resume](https://drive.google.com/file/d/1nbhzU9q9t398rTGzVxqxDKci5hBYPttA/view?usp=drive_link)
 
  --- 
 
