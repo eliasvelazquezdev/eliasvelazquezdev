@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasvelazquezdev&title=Stars,Followers,Repositories,PullRequest" alt="eliasvelazquezdev"/></a> </p>
 
 
-- 🔭 I’m currently working on a collaborative team project with Django and Django REST Framework (a LinkedIn style web app)
+- 🔭 I’m currently working on a real estate website called [ZonaHogar](https://github.com/eliasvelazquezdev/zonahogar) using Bootstrap 5, HTMX, Django and PostgreSQL
 
 - 👨‍💻 All of my projects are available at [my web](https://www.evelazquez.dev/)
 
