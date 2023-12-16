@@ -1,5 +1,5 @@
 
-![Portada LinkedIn 2023](https://github.com/eliasvelazquezdev/eliasvelazquezdev/assets/87088600/acb8b8f8-75a6-4f94-ae78-c445c8a488a0)
+![Portada LinkedIn 2023](https://res.cloudinary.com/dwczjy8e4/image/upload/v1695074516/portfolio/Portada_LinkedIn_2023_h6zpwi.png)
 
 <h1 align="center">Hey there! 👋, I'm Elias Velazquez</h1>
 
@@ -12,13 +12,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasvelazquezdev&title=Stars,Followers,Repositories,PullRequest" alt="eliasvelazquezdev"/></a> </p>
 
 
-- 🔭 I’m currently working on a real estate website called [ZonaHogar](https://github.com/eliasvelazquezdev/zonahogar) using Bootstrap 5, HTMX, Django and PostgreSQL
-
 - 👨‍💻 All of my projects are available at [my web](https://www.evelazquez.dev/)
 
 - 📫 How to reach me **evelazquez2604@gmail.com**
 
-- 📄 Know more about me and my experiences [by downloading my resume](https://drive.google.com/file/d/1nbhzU9q9t398rTGzVxqxDKci5hBYPttA/view?usp=drive_link)
+- 📄 Know more about me and my experiences [by downloading my resume](https://asset.cloudinary.com/dwczjy8e4/e9167ebed4450f429d9a4e7283a63f99)
 
  --- 
 
@@ -33,11 +31,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![Django](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg) ![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg) ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg) ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
 
 <h3 align="left">Currently learning:</h3>
 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg) ![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg)
 
  --- 
 
