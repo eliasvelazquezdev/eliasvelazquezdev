@@ -18,6 +18,8 @@
 
 - 📄 Know more about me and my experiences [by downloading my resume](https://asset.cloudinary.com/dwczjy8e4/e9167ebed4450f429d9a4e7283a63f99)
 
+- ✍️ I also run a [technical blog](https://esvdev.me/) where I share my knowledge and talk about my journey as a developer 
+
  --- 
 
 <h3 align="left">Connect with me:</h3>
