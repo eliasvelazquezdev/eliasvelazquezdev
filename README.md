@@ -12,13 +12,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasvelazquezdev&title=Stars,Followers,Repositories,PullRequest" alt="eliasvelazquezdev"/></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [my web](https://www.evelazquez.dev/)
+- 👨‍💻 All of my projects, experiences and resume are available at [my web](https://www.evelazquez.dev/)
 
-- 📫 How to reach me **evelazquez2604@gmail.com**
+- 📫 Wanna talk? Reach out to me via Gmail: **evelazquez2604@gmail.com**
 
-- 📄 Know more about me and my experiences [by downloading my resume](https://res.cloudinary.com/dwczjy8e4/image/upload/v1714084462/resume/Elias_Velazquez_-_Python_Dev_-_2024_EN_lrstnb.pdf)
-
-- ✍️ I also run a [technical blog](https://esvdev.me/) where I share my knowledge and talk about my journey as a developer 
+- ✍️ Oh, and I also run a [technical blog](https://esvdev.me/) where I share my knowledge and talk about my journey as a developer (currently only in Spanish)
 
  --- 
 
