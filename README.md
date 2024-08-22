@@ -29,14 +29,17 @@
 
  --- 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, frameworks and libraries:</h3>
 
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![Django](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg) ![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg) ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg) ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg) ![Bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg) ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Django](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg) ![Astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg) ![TailwindCSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg) 
 
 <h3 align="left">Currently learning:</h3>
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg)
 
+<h3 align="left">Other tools:</h3>
+
+![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg) ![Bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg) ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg) ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
  --- 
 
 <h4 align="left">Oh, and before you go, a joke ;)</h4>
