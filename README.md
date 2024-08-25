@@ -1,5 +1,5 @@
 
-![Portada LinkedIn 2023](https://res.cloudinary.com/dwczjy8e4/image/upload/v1714486044/portfolio/esvdev_LinkedIn_Banner_2024_v2_kgpyia.png)
+![Portada LinkedIn 2023](https://res.cloudinary.com/dwczjy8e4/image/upload/v1724600869/portfolio/esvdev_LinkedIn_Banner_2024_v2_bt8od1.png)
 
 <h1 align="center">Hey there! 👋, I'm Elias Velazquez</h1>
 
