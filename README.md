@@ -9,13 +9,13 @@
 
  --- 
 
-- 👨‍💻 All of my projects, experiences and resume are available at [my web](https://www.evelazquez.dev/)
+- 👨‍💻 All of my projects, experiences and resume are available at <a href="https://www.evelazquez.dev/" target="_blank">my web</a>
 
 - 📫 Wanna talk through email? I got you covered: **elias@evelazquez.dev**
 
-- ✍️ I run a [technical blog](https://esvdev.me/) where I share my knowledge and talk about my journey as an IT professional (currently only in Spanish)
+- ✍️ I run a <a href="https://esvdev.me/" target="_blank">technical blog</a> where I share my knowledge and talk about my journey as an IT professional (currently only in Spanish)
 
-- 🫂 I also manage a Spanish-speaking WhatsApp community where we learn, help each other, and have fun along the way. I’m a firm believer that teamwork makes the dream work! If you speak Spanish and what to be a part of it, you can learn more and join us [here](https://shareit.lat/) :)
+- 💪 I also manage a Spanish-speaking WhatsApp community where we learn, help each other, and have fun along the way. I’m a firm believer that teamwork makes the dream work! If you speak Spanish and what to be a part of it, you can learn more and join us <a href="https://shareit.lat/" target="_blank">here</a> 😉
  --- 
 
 <h3 align="left">Connect with me:</h3>
