@@ -15,7 +15,7 @@
 
 - ✍️ I run a [technical blog](https://esvdev.me/) where I share my knowledge and talk about my journey as an IT professional (currently only in Spanish)
 
-- 🫂 I also manage a Spanish-speaking WhatsApp community where we learn, help each other, and have fun along the way. I’m a firm believer that teamwork makes the dream work! If you speak Spanish and what to be a part of it, feel free to reach out to me for the invitation link :)
+- 🫂 I also manage a Spanish-speaking WhatsApp community where we learn, help each other, and have fun along the way. I’m a firm believer that teamwork makes the dream work! If you speak Spanish and what to be a part of it, you can learn more and join us [here](https://shareit.lat/) :)
  --- 
 
 <h3 align="left">Connect with me:</h3>
