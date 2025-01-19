@@ -1,4 +1,4 @@
-![k57r9mv8](https://github.com/user-attachments/assets/77db56b2-ed1c-44c7-9875-40f7b30754b2)
+![esvdev_LinkedIn_Banner_2024_v2](https://github.com/user-attachments/assets/e9c578cb-534c-4726-86ad-26b85e26c2d1)
 
 <h1 align="center">Hey there! 👋, I'm Elias Velazquez</h1>
 
