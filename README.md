@@ -1,4 +1,4 @@
-![esvdev_LinkedIn_Banner_2024_v2](https://github.com/user-attachments/assets/e9c578cb-534c-4726-86ad-26b85e26c2d1)
+![esvdev_LinkedIn_Banner_2024_v2](https://res.cloudinary.com/dwczjy8e4/image/upload/v1742677044/portfolio/esvdev_LinkedIn_Banner_2025_pkicqj.png)
 
 <h1 align="center">Hey there! 👋, I'm Elias Velazquez</h1>
 
